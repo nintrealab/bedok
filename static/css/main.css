@@ -494,7 +494,7 @@ button:focus{
 .song-name {
     position: relative;
     color: white;
-    animation: glitch-skew 1s infinite linear alternate-reverse;
+    /* animation: glitch-skew 1s infinite linear alternate-reverse; */
 }
 .song-name::before {
     content: attr(data-text);
