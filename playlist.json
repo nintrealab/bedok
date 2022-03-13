@@ -1,0 +1,885 @@
+{
+    "songs":[
+        {
+          "id": 1,
+          "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+          "author": "គម្ពីរព្រះត្រៃបិដក",
+          "song": "វិន័យបិដក ភាគ001",
+          "json":"",
+          "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_001.mp3"
+        },
+        {
+            "id": 2,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ002",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_002.mp3"
+        },
+        {
+            "id": 3,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ003",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_003.mp3"
+        },
+        {
+            "id": 4,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ004",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_004.mp3"
+        },
+        {
+            "id": 5,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ005",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_005.mp3"
+        },
+        {
+            "id": 6,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ006",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_006.mp3"
+        },
+        {
+            "id": 7,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ007",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_007.mp3"
+        },
+        {
+            "id": 8,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ008",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_008.mp3"
+        },
+        {
+            "id": 9,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ009",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_009.mp3"
+        },
+        {
+            "id": 10,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ010",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_010.mp3"
+        },
+        {
+            "id": 11,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ011",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_011.mp3"
+        },
+        {
+            "id": 12,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ012",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_012.mp3"
+        },
+        {
+            "id": 13,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "វិន័យបិដក ភាគ013",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_013.mp3"
+        },
+        {
+            "id": 14,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ014",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_014.mp3"
+        },
+        {
+            "id": 15,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ015",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_015.mp3"
+        },
+        {
+            "id": 16,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ016",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_016.mp3"
+        },
+        {
+            "id": 17,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ017",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_017.mp3"
+        },
+        {
+            "id": 18,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ018",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_018.mp3"
+        },
+        {
+            "id": 19,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ019",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_019.mp3"
+        },
+        {
+            "id": 20,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ020",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_020.mp3"
+        },
+        {
+            "id": 21,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ021",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_021.mp3"
+        },
+        {
+            "id": 22,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ022",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_022.mp3"
+        },
+        {
+            "id": 23,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ023",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_023.mp3"
+        },
+        {
+            "id": 24,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ024",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_024.mp3"
+        },
+        {
+            "id": 25,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ025",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_025.mp3"
+        },
+        {
+            "id": 26,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ026",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_026.mp3"
+        },
+        {
+            "id": 27,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ027",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_027.mp3"
+        },
+        {
+            "id": 28,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ028",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_028.mp3"
+        },
+        {
+            "id": 29,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ029",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_029.mp3"
+        },
+        {
+            "id": 30,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ030",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_030.mp3"
+        },
+        {
+            "id": 31,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ031",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_031.mp3"
+        },
+        {
+            "id": 32,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ032",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_032.mp3"
+        },
+        {
+            "id": 33,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ033",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_033.mp3"
+        },
+        {
+            "id": 34,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ034",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_034.mp3"
+        },
+        {
+            "id": 35,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ035",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_035.mp3"
+        },
+        {
+            "id": 36,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ036",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_036.mp3"
+        },
+        {
+            "id": 37,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ037",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_037.mp3"
+        },
+        {
+            "id": 38,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ038",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_038.mp3"
+        },
+        {
+            "id": 39,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ039",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_039.mp3"
+        },
+        {
+            "id": 40,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ040",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_040.mp3"
+        },
+        {
+            "id": 41,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ041",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_041.mp3"
+        },
+        {
+            "id": 42,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ042",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_042.mp3"
+        },
+        {
+            "id": 43,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ043",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_043.mp3"
+        },
+        {
+            "id": 44,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ044",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_044.mp3"
+        },
+        {
+            "id": 45,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ045",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_045.mp3"
+        },
+        {
+            "id": 46,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ046",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_046.mp3"
+        },
+        {
+            "id": 47,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ047",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_047.mp3"
+        },
+        {
+            "id": 48,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ048",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_048.mp3"
+        },
+        {
+            "id": 49,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ049",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_049.mp3"
+        },
+        {
+            "id": 50,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ050",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_050.mp3"
+        },
+        {
+            "id": 51,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ051",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_051.mp3"
+        },
+        {
+            "id": 52,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ052",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_052.mp3"
+        },
+        {
+            "id": 53,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ053",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_053.mp3"
+        },
+        {
+            "id": 54,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ054",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_054.mp3"
+        },
+        {
+            "id": 55,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ055",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_055.mp3"
+        },
+        {
+            "id": 56,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ056",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_056.mp3"
+        },
+        {
+            "id": 57,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ057",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_057.mp3"
+        },
+        {
+            "id": 58,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ058",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_058.mp3"
+        },
+        {
+            "id": 59,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ059",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_059.mp3"
+        },
+        {
+            "id": 60,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ060",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_060.mp3"
+        },
+        {
+            "id": 61,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ061",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_061.mp3"
+        },
+        {
+            "id": 62,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ062",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_062.mp3"
+        },
+        {
+            "id": 63,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ063",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_063.mp3"
+        },
+        {
+            "id": 64,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ064",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_064.mp3"
+        },
+        {
+            "id": 65,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ065",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_065.mp3"
+        },
+        {
+            "id": 66,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ066",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_066.mp3"
+        },
+        {
+            "id": 67,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ067",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_067.mp3"
+        },
+        {
+            "id": 68,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ068",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_068.mp3"
+        },
+        {
+            "id": 69,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ069",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_069.mp3"
+        },
+        {
+            "id": 70,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ070",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_070.mp3"
+        },
+        {
+            "id": 71,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ071",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_071.mp3"
+        },
+        {
+            "id": 72,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ072",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_072.mp3"
+        },
+        {
+            "id": 73,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ073",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_073.mp3"
+        },
+        {
+            "id": 74,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ074",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_074.mp3"
+        },
+        {
+            "id": 75,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ075",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_075.mp3"
+        },
+        {
+            "id": 76,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ076",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_076.mp3"
+        },
+        {
+            "id": 77,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "សុត្តន្តបិដក ភាគ077",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_077.mp3"
+        },
+        {
+            "id": 78,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ078",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_078.mp3"
+        },
+        {
+            "id": 79,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ079",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_079.mp3"
+        },
+        {
+            "id": 80,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ080",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_080.mp3"
+        },
+        {
+            "id": 81,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ081",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_081.mp3"
+        },
+        {
+            "id": 82,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ082",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_082.mp3"
+        },
+        {
+            "id": 83,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ083",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_083.mp3"
+        },
+        {
+            "id": 84,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ084",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_084.mp3"
+        },
+        {
+            "id": 85,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ085",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_085.mp3"
+        },
+        {
+            "id": 86,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ086",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_086.mp3"
+        },
+        {
+            "id": 87,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ087",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_087.mp3"
+        },
+        {
+            "id": 88,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ088",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_088.mp3"
+        },
+        {
+            "id": 89,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ089",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_089.mp3"
+        },
+        {
+            "id": 90,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ090",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_090.mp3"
+        },
+        {
+            "id": 91,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ091",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_091.mp3"
+        },
+        {
+            "id": 92,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ092",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_092.mp3"
+        },
+        {
+            "id": 93,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ093",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_093.mp3"
+        },
+        {
+            "id": 94,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ094",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_094.mp3"
+        },
+        {
+            "id": 95,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ095",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_095.mp3"
+        },
+        {
+            "id": 96,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ096",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_096.mp3"
+        },
+        {
+            "id": 97,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ097",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_097.mp3"
+        },
+        {
+            "id": 98,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ098",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_098.mp3"
+        },
+        {
+            "id": 99,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ099",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_099.mp3"
+        },
+        {
+            "id": 100,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ100",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_100.mp3"
+        },
+        {
+            "id": 101,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ101",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_101.mp3"
+        },
+        {
+            "id": 102,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ102",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_102.mp3"
+        },
+        {
+            "id": 103,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ103",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_103.mp3"
+        },
+        {
+            "id": 104,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ104",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_104.mp3"
+        },
+        {
+            "id": 105,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ105",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_105.mp3"
+        },
+        {
+            "id": 106,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ106",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_106.mp3"
+        },
+        {
+            "id": 107,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ107",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_107.mp3"
+        },
+        {
+            "id": 108,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ108",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_108.mp3"
+        },
+        {
+            "id": 109,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ109",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_109.mp3"
+        },
+        {
+            "id": 110,
+            "albumart": "https://sophat.nintrea.org/assets/media/bedok/1.png",
+            "author": "គម្ពីរព្រះត្រៃបិដក",
+            "song": "អភិធម្មបិដក ភាគ110",
+            "json":"",
+            "audio":"http://5000-years-zip.org/5000tripitakaaudio/audiobook_bedok_110.mp3"
+        }
+
+    ]
+}

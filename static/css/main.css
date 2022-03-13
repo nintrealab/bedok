@@ -1,0 +1,723 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Khmer:wght@200;300;400&display=swap');
+#root,body,html{
+    margin:0;
+    padding:0;
+    font-family:"Content","Montserrat",sans-serif;
+    overflow:auto;
+    height:100vh;
+    width:100vw;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+    background-image:linear-gradient(157deg,#000,#000 90%)
+}
+#root{
+    background:inherit
+}
+.artist-name,.song-name,.song,.artist,h1{
+  font-family: 'Noto Serif Khmer', serif;
+}
+.album-art-background{
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    height:100vh;
+    width:auto;
+    display:block;
+    opacity:.15
+}
+.album-art-background,header{
+    position:fixed;
+    pointer-events:none
+}
+header{
+    top:0;
+    width:95%;
+    padding:12px 1.5% 10px;
+    color:#fff;
+    z-index:50
+}
+header #top-bar{
+    position:relative;
+    width:100%;
+    margin:auto
+}
+header #top-bar button{
+    background:inherit;
+    color:inherit;
+    border:none;
+    padding:5px 10px;
+    margin:0 16px 0 0;
+    font-size:18px;
+    cursor:pointer;
+    pointer-events:all
+}
+header #top-bar #about-song{
+    width:50%;
+    margin:0;
+    font-size:70%;
+    line-height:180%
+}
+header #top-bar #about-song.hide{
+    visibility:hidden
+}
+header #top-bar #about-song *{
+    margin:0;
+    width:100%;
+    white-space:nowrap;
+    line-height: 2;
+    overflow:hidden;
+    text-overflow:ellipsis
+}
+footer{
+    position:fixed;
+    bottom:0;
+    z-index:50;
+    width:100%;
+    padding:15px 0
+}
+footer #player #bar{
+    position:relative;
+    text-align:center;
+    width:100%
+}
+footer #player #bar #currentTime,footer #player #bar #totalTime{
+    padding:0;
+    font-size:14px;
+    width:53px;
+    letter-spacing:1px
+}
+footer #player #bar #currentTime{
+    text-align:right;
+    padding-right:12px
+}
+footer #player #bar #totalTime{
+    text-align:left;
+    padding-left:12px
+}
+footer #player #bar #currentTime,footer #player #bar #progress-bar,footer #player #bar #totalTime{
+    color:#fff
+}
+footer #player #bar #progress-bar{
+    position:relative;
+    text-align:center;
+    padding:0;
+    width:70%;
+    background:#3c3c3c;
+    border-radius:20px;
+    margin:0;
+    cursor:pointer
+}
+footer #player #bar #progress{
+    height:5px;
+    background:red;
+    border-radius:20px;
+    text-align:right
+}
+footer #player #bar #progress>i{
+    position:absolute;
+    top:50%;
+    transform:translate(-50%,-50%);
+    box-shadow:0 0 8px 2px rgba(0,0,0,.27);
+    padding:0 1px;
+    /* color:red; */
+    /* background:red; */
+    border-radius:50%;
+    font-size:80%;
+    transition:all .5s ease
+}
+footer #player #bar #progress>i:hover{
+    box-shadow:0 0 8px 2px rgba(0,0,0,.51)
+}
+footer #player #menu{
+    position:relative;
+    text-align:center;
+    width:100%;
+    overflow:hidden;
+    padding:10px 0
+}
+footer #player #menu>button{
+    padding:10px 14px;
+    border-radius:50%;
+    border:none;
+    margin:0 5px;
+    background:inherit;
+    color:#fff;
+    font-size:20px;
+    text-align:center;
+    opacity:1;
+    transition:all .2s ease;
+    cursor:pointer
+}
+footer #player #menu>button>i{
+    padding:5px 3px 5px 5px
+}
+footer #player #menu>button#play{
+    opacity:1;
+    border:2px solid #fff
+}
+footer #player #menu>button:focus{
+    outline:none
+}
+footer #player #menu>button.off{
+    opacity:.4
+}
+footer #player #menu>button.off:hover{
+    opacity:.8
+}
+@media only screen and (max-width:320px){
+    footer #player #menu button{
+    padding:10px 8px
+}
+footer #player #menu button#play{
+    padding:10px 14px
+}
+
+}
+#lyrics{
+    width:100%;
+    margin-top:60px;
+    height:75.5vh;
+    color:#fff;
+    text-align:center;
+    overflow:hidden;
+    font-size:13px;
+    scroll-behavior:smooth
+}
+#lyrics #lyrics-content{
+    width:90%;
+    margin:auto;
+    padding:20px 0;
+    transition:all .1s ease
+}
+#lyrics h2{
+    opacity:.25
+}
+#lyrics .on-top{
+    opacity:1;
+    font-size:250%
+}
+@media only screen and (max-height:720px){
+    #lyrics{
+    height:71vh
+}
+
+}
+@media only screen and (max-height:660px){
+    #lyrics{
+    height:71vh
+}
+
+}
+@media only screen and (max-height:638px){
+    #lyrics{
+    height:68vh
+}
+
+}
+@media only screen and (max-height:575px){
+    #lyrics{
+    height:66vh
+}
+
+}
+@media only screen and (max-height:558px){
+    #lyrics{
+    height:64vh
+}
+
+}
+@media only screen and (max-height:511px){
+    #lyrics{
+    height:60vh
+}
+
+}
+@media only screen and (max-height:460px){
+    #lyrics{
+    height:56vh
+}
+
+}
+@media only screen and (max-height:418px){
+    #lyrics{
+    height:52vh
+}
+
+}
+@media only screen and (max-height:384px){
+    #lyrics{
+    height:48vh
+}
+
+}
+@media only screen and (max-height:355px){
+    #lyrics{
+    height:44vh
+}
+
+}
+@media only screen and (max-height:329px){
+    #lyrics{
+    height:40vh
+}
+
+}
+@media only screen and (max-height:308px){
+    #lyrics{
+    height:32vh
+}
+
+}
+#playlist{
+    position:fixed;
+    top:0;
+    left:0;
+    height:100vh;
+    width:100%;
+    z-index:4;
+    color:#fff;
+    background-color:rgba(127,90,131,.2);
+    /* background-image:linear-gradient(315deg,rgba(127,90,131,.6),rgba(13,50,77,.6) 74%); */
+    background-image:linear-gradient(315deg,#000,#000 50%);
+    transition:all 1s cubic-bezier(.53,1.13,.41,1);
+    transform:translateX(100%)
+}
+#playlist.show{
+    transform:none!important
+}
+#playlist #label{
+    width:100%;
+    text-align:center;
+    font-size:70%
+}
+#playlist #label>h1{
+    line-height:normal;
+    margin:3vh 0 0
+}
+#playlist #label #search{
+    background:transparent;
+    color:#fff;
+    border:1px solid hsla(0,0%,100%,.6);
+    padding:8px;
+    margin:2.5vh 0;
+    border-radius:50%;
+    font-family:"niCons light","Montserrat",sans-serif;
+    transition:all .5s cubic-bezier(.175,.885,.32,1.275);
+    width:12px;
+    background:#fff
+}
+#playlist #label #search:focus{
+    outline:none;
+    border-radius:8px;
+    border:1px solid #fff;
+    width:25vw;
+    padding:8px 13px;
+    background:inherit
+}
+#playlist #show-box{
+    position:absolute;
+    top:50%;
+    left:50%;
+    height:60vh;
+    width:70%;
+    padding:0 4vh;
+    transform:translate(-50%,-50%);
+    overflow:auto
+}
+#playlist #show-box #show-list{
+    position:relative;
+    transition:all .5s ease-in-out;
+    height:100%
+}
+#playlist #show-box #show-list .song-list{
+    width:100%;
+    display:block
+}
+#playlist #show-box #show-list .song-list .song-list-row{
+    width:100%
+}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art{
+    width:35px;
+    height:35px;
+    max-width:35px;
+    max-height:35px;
+    overflow:hidden;
+    position:relative;
+    margin:8px;
+    border-radius:8px
+}
+#playlist #show-box #show-list .song-list .song-list-row div.album-art img{
+    width:100%;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    height:auto
+}
+#playlist #show-box #show-list .song-list .song-list-row .song-details{
+    width:80%
+}
+#playlist #show-box #show-list .song-list .song-list-row .song-details h2,#playlist #show-box #show-list .song-list .song-list-row .song-details h4{
+    margin:0;
+    width:100%;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    color: var(--ni-blue-500);
+}
+#playlist #show-box #show-list .song-list .song-list-row .song-details h2{
+    font-size:90%;
+    line-height:2;
+    font-weight: 500;
+}
+#playlist #show-box #show-list .song-list .song-list-row .song-details h4{
+    font-size:60%;
+    line-height:2;
+    font-weight:400
+}
+#playlist #show-box #show-list .song-list .song-list-row .options{
+    /* border-radius:50%; */
+    /* border:2px solid #fff; */
+    color:var(--ni-blue-500);
+    /* padding:6px 8px; */
+    cursor:pointer
+}
+#playlist #show-box #show-list .song-list .song-list-row .options i{
+    display:block
+}
+#playlist #show-box #show-list .song-list .song-list-row .options i.fa-play{
+    transform:translateX(10%)
+}
+@media only screen and (max-height:500px){
+    #playlist>#label{
+    font-size:60%
+}
+#search{
+    font-size:10px;
+    padding:4px!important
+}
+#search:focus{
+    width:40vw
+}
+#playlist>#label>h1{
+    line-height:normal;
+    margin:3vh 0 0!important
+}
+
+}
+@media only screen and (max-height:600px){
+    #playlist #show-box{
+    top:48%;
+    height:60vh
+}
+
+}
+@media only screen and (max-height:500px){
+    #playlist #show-box{
+    top:45%;
+    height:53vh
+}
+
+}
+@media only screen and (max-height:400px){
+    #playlist #show-box{
+    top:45%;
+    height:42vh
+}
+
+}
+@media only screen and (max-height:350px){
+    #playlist #show-box{
+    top:45%;
+    height:30vh
+}
+
+}
+@media only screen and (max-height:300px){
+    #playlist #show-box{
+    top:42%;
+    height:20vh
+}
+
+}
+@media only screen and (max-height:250px){
+    #playlist #show-box{
+    top:40%;
+    height:15vh
+}
+
+}
+@media only screen and (max-width:600px){
+    #search:focus{
+    width:50vw!important
+}
+#playlist .song-details{
+    width:60%!important
+}
+
+}
+.flex{
+    display:flex
+}
+.flex.vrtlCenter{
+    align-items:center
+}
+.flex.hrtlCenter{
+    justify-content:center
+}
+.low-text-opacity{
+    opacity:.67
+}
+button:focus{
+    outline:none
+}
+#show-box::-webkit-scrollbar,::-webkit-scrollbar{
+    width:5px
+}
+#show-box::-webkit-scrollbar-track,::-webkit-scrollbar-track{
+    box-shadow:inset 0 0 6px rgba(0,0,0,.3)
+}
+#show-box::-webkit-scrollbar-thumb,::-webkit-scrollbar-thumb{
+    background-color:#a9a9a9;
+    outline:1px solid #708090
+}
+
+
+
+
+  
+  /* Our mixin positions a copy of our text
+  directly on our existing text, while
+  also setting content to the appropriate
+  text set in the data-text attribute. */
+.song-name {
+    position: relative;
+    color: white;
+    animation: glitch-skew 1s infinite linear alternate-reverse;
+}
+.song-name::before {
+    content: attr(data-text);
+    position: absolute;
+    text-shadow: -2px 0 #ff00c1;
+    clip: rect(44px, 450px, 56px, 0);
+    animation: glitch-anim 5s infinite linear alternate-reverse;
+}
+.song-name::after {
+    content: attr(data-text);
+    position: absolute;
+    text-shadow: -2px 0 #00fff9, 2px 2px #ff00c1;
+    animation: glitch-anim2 1s infinite linear alternate-reverse;
+}
+  
+  /* Creates an animation with 20 steaps. For each step, it calculates 
+  a percentage for the specific step. It then generates a random clip
+  box to be used for the random glitch effect. Also adds a very subtle
+  skew to change the 'thickness' of the glitch.*/
+@keyframes glitch-anim {
+    0% {
+      clip: rect(77px, 9999px, 37px, 0);
+      transform: skew(0.89deg);
+    }
+    5% {
+      clip: rect(66px, 9999px, 45px, 0);
+      transform: skew(0.54deg);
+    }
+    10% {
+      clip: rect(30px, 9999px, 82px, 0);
+      transform: skew(0.23deg);
+    }
+    15% {
+      clip: rect(93px, 9999px, 75px, 0);
+      transform: skew(0.27deg);
+    }
+    20% {
+      clip: rect(55px, 9999px, 82px, 0);
+      transform: skew(0.58deg);
+    }
+    25% {
+      clip: rect(27px, 9999px, 9px, 0);
+      transform: skew(0.75deg);
+    }
+    30% {
+      clip: rect(34px, 9999px, 2px, 0);
+      transform: skew(0.99deg);
+    }
+    35% {
+      clip: rect(75px, 9999px, 23px, 0);
+      transform: skew(1deg);
+    }
+    40% {
+      clip: rect(42px, 9999px, 95px, 0);
+      transform: skew(0.54deg);
+    }
+    45% {
+      clip: rect(8px, 9999px, 64px, 0);
+      transform: skew(0.41deg);
+    }
+    50% {
+      clip: rect(99px, 9999px, 2px, 0);
+      transform: skew(0.72deg);
+    }
+    55% {
+      clip: rect(64px, 9999px, 22px, 0);
+      transform: skew(0.97deg);
+    }
+    60% {
+      clip: rect(44px, 9999px, 78px, 0);
+      transform: skew(0.98deg);
+    }
+    65% {
+      clip: rect(7px, 9999px, 17px, 0);
+      transform: skew(0.72deg);
+    }
+    70% {
+      clip: rect(90px, 9999px, 93px, 0);
+      transform: skew(0.92deg);
+    }
+    75% {
+      clip: rect(68px, 9999px, 56px, 0);
+      transform: skew(0.88deg);
+    }
+    80% {
+      clip: rect(11px, 9999px, 83px, 0);
+      transform: skew(0.42deg);
+    }
+    85% {
+      clip: rect(6px, 9999px, 98px, 0);
+      transform: skew(0.78deg);
+    }
+    90% {
+      clip: rect(53px, 9999px, 65px, 0);
+      transform: skew(0.19deg);
+    }
+    95% {
+      clip: rect(55px, 9999px, 22px, 0);
+      transform: skew(0.19deg);
+    }
+    100% {
+      clip: rect(12px, 9999px, 4px, 0);
+      transform: skew(0.64deg);
+    }
+  }
+  @keyframes glitch-anim2 {
+    0% {
+      clip: rect(62px, 9999px, 61px, 0);
+      transform: skew(0.48deg);
+    }
+    5% {
+      clip: rect(18px, 9999px, 51px, 0);
+      transform: skew(0.52deg);
+    }
+    10% {
+      clip: rect(40px, 9999px, 44px, 0);
+      transform: skew(0.85deg);
+    }
+    15% {
+      clip: rect(87px, 9999px, 87px, 0);
+      transform: skew(0.83deg);
+    }
+    20% {
+      clip: rect(54px, 9999px, 57px, 0);
+      transform: skew(0.57deg);
+    }
+    25% {
+      clip: rect(37px, 9999px, 71px, 0);
+      transform: skew(0.15deg);
+    }
+    30% {
+      clip: rect(51px, 9999px, 97px, 0);
+      transform: skew(0.32deg);
+    }
+    35% {
+      clip: rect(83px, 9999px, 63px, 0);
+      transform: skew(0.35deg);
+    }
+    40% {
+      clip: rect(28px, 9999px, 58px, 0);
+      transform: skew(0.62deg);
+    }
+    45% {
+      clip: rect(81px, 9999px, 27px, 0);
+      transform: skew(0.82deg);
+    }
+    50% {
+      clip: rect(16px, 9999px, 36px, 0);
+      transform: skew(0.12deg);
+    }
+    55% {
+      clip: rect(27px, 9999px, 88px, 0);
+      transform: skew(0.61deg);
+    }
+    60% {
+      clip: rect(33px, 9999px, 44px, 0);
+      transform: skew(0.38deg);
+    }
+    65% {
+      clip: rect(97px, 9999px, 69px, 0);
+      transform: skew(0.08deg);
+    }
+    70% {
+      clip: rect(51px, 9999px, 97px, 0);
+      transform: skew(0.32deg);
+    }
+    75% {
+      clip: rect(43px, 9999px, 43px, 0);
+      transform: skew(0.33deg);
+    }
+    80% {
+      clip: rect(44px, 9999px, 5px, 0);
+      transform: skew(0.5deg);
+    }
+    85% {
+      clip: rect(62px, 9999px, 67px, 0);
+      transform: skew(0.49deg);
+    }
+    90% {
+      clip: rect(95px, 9999px, 51px, 0);
+      transform: skew(0.35deg);
+    }
+    95% {
+      clip: rect(72px, 9999px, 90px, 0);
+      transform: skew(0.67deg);
+    }
+    100% {
+      clip: rect(49px, 9999px, 83px, 0);
+      transform: skew(0.76deg);
+    }
+  }
+  @keyframes glitch-skew {
+    0% {
+      transform: skew(0deg);
+    }
+    10% {
+      transform: skew(3deg);
+    }
+    20% {
+      transform: skew(6deg);
+    }
+    30% {
+      transform: skew(1deg);
+    }
+    40% {
+      transform: skew(4deg);
+    }
+    50% {
+      transform: skew(-2deg);
+    }
+    60% {
+      transform: skew(-5deg);
+    }
+    70% {
+      transform: skew(1deg);
+    }
+    80% {
+      transform: skew(0deg);
+    }
+    90% {
+      transform: skew(-5deg);
+    }
+    100% {
+      transform: skew(1deg);
+    }
+}
